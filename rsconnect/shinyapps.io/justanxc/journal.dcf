@@ -1,0 +1,10 @@
+name: journal
+title:
+username: justanxc
+account: justanxc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10837460
+bundleId: 8074323
+url: https://justanxc.shinyapps.io/journal/
+version: 1
